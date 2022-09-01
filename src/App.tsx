@@ -1,26 +1,17 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Cards from './components/Cards'
+import Timer from './components/Timer'
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="flex w-screen h-screen justify-center items-center bg-orange-100">
+      <div>
+        <h1 className="flex justify-center mb-4 text-xl font-bold">
+          React Memory Game
+        </h1>
+        <Cards />
+      </div>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
