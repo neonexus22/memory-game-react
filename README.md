@@ -13,3 +13,7 @@ This will run the app at http://localhost:3000 and you can start playing.
 
 
 <img width="1435" alt="image" src="https://user-images.githubusercontent.com/17468878/194716768-7dac561f-ab86-4e05-b5cd-c15414e3d939.png">
+
+
+<img width="1435" alt="image" src="https://user-images.githubusercontent.com/17468878/194716845-699151c2-a961-4efd-81e2-9f66bad1d2c2.png">
+
